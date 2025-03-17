@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Patil</h1>
-<h3 align="center">A Passionate Full-Stack Developer & AI Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhuvan-Patil-24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI-powered chatbots & immersive web applications**
-- 🎯 Passionate about **Full-Stack Development | AI | MERN Stack | 3D Web Experiences**
-- 🌱 Currently learning **Advanced AI techniques, Elasticsearch & Cloud Deployment**
+- 🔭 I’m currently a **3rd year undergraduate** pursuing my **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and doing my **Honors in Data Sceince**
+- 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
+- 🌱 Currently learning **Data science & Machine learning, and model Deployment**
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
-- 📫 Reach me at **bhuvanpatil24@example.com**  
+- 📫 Reach me at **patilbhuvan27@gmail.com**  
 - ⚡ Fun fact: I love exploring futuristic tech & building innovative digital experiences 🚀  
 
 ---

@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently a **3rd year undergraduate** pursuing my **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and doing my **Honors in Data Sceince**
+- 🔭 I’m currently a **3rd year undergraduate** pursuing my **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and doing my **Honors in DS**
 - 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
 - 🌱 Currently learning **Data science & Machine learning, and model Deployment**
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### AI & Data Science  
+#### Data Science & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  

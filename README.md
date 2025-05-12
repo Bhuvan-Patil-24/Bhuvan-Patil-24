@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Patil</h1>
-<h3 align="center">Aspiring Data Scientist & AI Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist & AI-ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhuvan-Patil-24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently a **3rd year undergraduate** pursuing my **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and doing my **Honors in DS**
+- 🔭 I’m a **Final year student** pursuing my **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and doing my **Honors in DS**
 - 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
 - 🌱 Currently learning **Data science & Machine learning, and model Deployment**
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
@@ -33,7 +33,6 @@
 
 #### Frontend  
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### Backend & Database  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)

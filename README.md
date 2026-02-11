@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m a **Final year student** pursuing a **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and doing my **Honors in DS**
+- 🔭 I’m a **Final year student** pursuing a **B. Tech.** degree from **SBJITMR**, Nagpur in **CSE** and completed my **Honours in DS**
 - 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
-- 🌱 Currently learning **Data science & Machine learning, and model Deployment**
+- 🌱 Currently doing an Internship at **GYANVIX** as a **Software Engineer**
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
 - 📫 Reach me at **patilbhuvan27@gmail.com**  
 - ⚡ Fun fact: I love exploring futuristic tech & building innovative digital experiences 🚀  
